@@ -26,8 +26,9 @@ My expertise spans multiple technologies, enabling me to excel in software devel
 <p align="left">
 
 
+<a href="mailto:devpatelm8318@gmail.com" target="blank"><img  align="center"  height="30" width="40"  src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="devpatelm8318@gmail.com"></a>
 <a href="https://linkedin.com/in/dev-patel-3523151b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-patel-3523151b9" height="30" width="40" /></a>
-  <a href="https://twitter.com/devpatel8318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devpatel8318" height="30" width="40" /></a>
+<a href="https://twitter.com/devpatel8318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devpatel8318" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22014613/dev-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22014613/dev-patel" height="30" width="40" /></a>
 <a href="https://instagram.com/___devpatell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___devpatell" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@devpatelm8318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@devpatelm8318" height="30" width="40" /></a>
@@ -36,8 +37,8 @@ My expertise spans multiple technologies, enabling me to excel in software devel
 <a href="https://discord.gg/T9EaEYczH3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="T9EaEYczH3" height="30" width="40" /></a>
   <a href="https://codepen.io/@devpatel8318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@devpatel8318" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/devpatel8318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/devpatel8318" height="30" width="40" /></a>
-<a href="https://telegram.me/Dev_patel_8318/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png?20220101141644" alt="https://dev.to/devpatel8318" height="30"  /></a>
-  
+<a href="https://telegram.me/Dev_patel_8318/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png?20220101141644" alt="https://dev.to/devpatel8318" height="30"  /></a> 
+
 </p>
 <hr>
 
