@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dev Patel</h1>
 
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Howdy!, I am <a href="https://github.com/Defcon27">Dev</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -7,6 +8,12 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <hr>
 
+<p>
+  
+I'm Dev Patel, an aspiring full-stack developer passionate about programming, Learning, and problem-solving. With a strong foundation in Computer Engineering, I strive to create impactful solutions in real-world scenarios.
+  
+My expertise spans multiple technologies, enabling me to excel in software development, including Machine Learning, front-end  and back-end  implementation. Eager to collaborate with industry experts, I aim to make a positive change in the world through my work
+</p>
 
 - 🌱 I’m currently learning **Nextjs and Machine Learning**
 
@@ -14,12 +21,25 @@
 
 - 📫 How to reach me **devpatelm8318@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/Devpatel8318](https://github.com/Devpatel8318)
-
-<h3 align="left">Connect with me:</h3>
+<hr>
+<h3 align="left">🔗Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devpatel8318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devpatel8318" height="30" width="40" /></a>
+
+
 <a href="https://linkedin.com/in/dev-patel-3523151b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-patel-3523151b9" height="30" width="40" /></a>
+  <a href="https://twitter.com/devpatel8318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devpatel8318" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22014613/dev-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22014613/dev-patel" height="30" width="40" /></a>
+<a href="https://instagram.com/___devpatell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___devpatell" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@devpatelm8318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@devpatelm8318" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/devpatelm8318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/devpatelm8318/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/devpatelm8318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/devpatelm8318" height="30" width="40" /></a>
+<a href="https://discord.gg/T9EaEYczH3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="T9EaEYczH3" height="30" width="40" /></a>
+  <a href="https://codepen.io/@devpatel8318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@devpatel8318" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/devpatel8318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/devpatel8318" height="30" width="40" /></a>
+<a href="https://telegram.me/Dev_patel_8318/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png?20220101141644" alt="https://dev.to/devpatel8318" height="30"  /></a>
+  
 </p>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -44,7 +64,7 @@
 
 <div>
   <a href="https://github.com/Devpatel8318">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devpatel8318&show_icons=true&locale=en" alt="devpatel8318" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devpatel8318&show_icons=trueshow_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue" alt="devpatel8318" />
   </a>
   <a href="https://github.com/Devpatel8318">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpatel8318&" alt="devpatel8318" />
